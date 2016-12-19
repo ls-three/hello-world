@@ -1,2 +1,2 @@
 # hello-world
-githup learning
+githup first learning
